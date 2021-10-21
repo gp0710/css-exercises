@@ -1,0 +1,16 @@
+button {
+  font-family: Helvetica Times New Roman;
+  font-size: 28px;
+}
+
+.click1 {
+  background-color: black;
+  color: white;
+  border: 1px solid gray;
+}
+
+.click2 {
+  background-color: yellow;
+  color: black;
+  border: 1px solid gray;
+}
